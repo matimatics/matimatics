@@ -6,7 +6,7 @@
 
 - 📲 Junior web developer
 - 🔭 Currently working on **React, NodeJs, Expressjs, MongoDB**
-- 🌱 I’m currently learning **Websockets**
+- 🌱 Learning **Websockets**
 <br>
 
 ## Projects
