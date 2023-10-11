@@ -30,14 +30,14 @@
                <br>
 <h3 align="center">FrontEnd ReactJs - Tailwind</h3>
 <div align="center">                                       
-<a href="" target="_blank"><img src="" width="400" alt="react-blog"></a>
+<a href="" target="_blank"><img src="https://user-images.githubusercontent.com/119935414/274288535-29631780-cd58-4bef-b299-8d7b04914317.jpg" width="400" alt="react-blog"></a>
 <br>
 <p>
 <a href="" target="_blank">
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Composants et fonctionnalités grâce à ReactJs et Tailwind.</p>
+</p>Site made with ReactJs and TailwindCSS components, for web and mobile version. Functionalities thanks to custom hooks</p>
 </div>                                                             
 </table>                                                                                 
 </div>
@@ -51,22 +51,16 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/matias-vargas-8b06a3241/">
+		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/matimatics">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/vargasmatias/">
+		<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/MatiasVargas">
+		<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+	<a style="margin-left: 5px;" target="_blank" href="">
+		<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 
 </p>
