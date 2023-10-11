@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Creation d'une API REST avec NodeJs, ExpressJs, MongoDB, Mongoose et Jest pour testing</p>
+<p>API REST made with NodeJs, ExpressJs, MongoDB (NoSQL), Mongoose and Jest for testing.</p>
 </div>
                                                                                       
 </td>
